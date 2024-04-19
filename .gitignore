@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+individuais/
+
+
+# Arquivos de compilação
+dist/
+build/
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de sistema operacional
+.DS_Store
+
+# Arquivos de configuração específicos do editor/IDE
+.vscode/
+.idea/
+
+# Arquivos de cache
+.cache/
