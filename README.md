@@ -10,6 +10,6 @@
 
    3.3 [Documentação prompt-sync](https://www.npmjs.com/package/prompt-sync)
 
-4. Após a instalação será possível ao usuário realizar entrada de dados de forma síncrona dentro do terminado.
+4. Após a instalação será possível ao usuário realizar entrada de dados de forma síncrona dentro do terminal.
 
 5. No terminal executar o comando `node tarefaCompleta.js` para iniciar os a execução do script.
